@@ -13,22 +13,22 @@ So I'm still trying to level up as a player :face_in_clouds:.
 ### :toolbox: Languages and Tools 
 
 <!-- BACK-END LANGUAGES AND TOOLS -->
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 
 <!-- FRONT-END LANGUAGES AND TOOLS -->
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 
 <!-- GIT -->
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <!-- OTHER LANGUAGES AND TOOLS -->
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
 <br><br>
 
 ---
