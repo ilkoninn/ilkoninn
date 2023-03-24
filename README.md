@@ -31,7 +31,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
 <br><br>
 
----
+###
 
 ### 	:books: My GitHub Stats
 <img align="left" alt="Java" width="47%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
