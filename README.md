@@ -32,7 +32,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
-<br><br>
+<br><br><br><br>
 
 #
 
