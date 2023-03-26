@@ -3,7 +3,7 @@
 
 # Recebov Ilkin
 
-:man_technologist: **`Programmer (Back-End, Front-End, DATA)`** :man_technologist:
+:man_technologist:**`Programmer (Back-End, Front-End, DATA)`**:man_technologist:
 
 ### Hi!, I'm Ilkin, but you can call me ilkonin :upside_down_face:
 I'm studying at the Faculty of Computer Science of BSU(Baku State University).
