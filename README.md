@@ -37,5 +37,5 @@ So I'm still trying to level up as a player :face_in_clouds:.
 #
 
 ### 	:books: My GitHub Stats
-<img align="left" alt="Java" width="45%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
-<img align="left" alt="Java" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkoninn&layout=compact"/>
+<img align="left" alt="Java" width="43%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
+<img align="left" alt="Java" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkoninn&layout=compact"/>
