@@ -18,7 +18,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <!-- BACK-END LANGUAGES AND TOOLS -->
 ### Back-End
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.w3schools.com">
     <img src="https://skillicons.dev/icons?i=py,postgres,docker,django,postman,mysql" />
   </a>
 </p>
