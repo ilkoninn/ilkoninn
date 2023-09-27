@@ -18,6 +18,9 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <!-- BACK-END LANGUAGES AND TOOLS -->
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg"/>
+<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+
 
 <!-- FRONT-END LANGUAGES AND TOOLS -->
 <img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
