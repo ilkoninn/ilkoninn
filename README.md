@@ -13,29 +13,33 @@ these sectors and I would like to prepare projects related to these sectors in t
 So I'm still trying to level up as a player :face_in_clouds:.
 
 ---
-### :toolbox: Languages and Tools 
+## :toolbox: Languages and Tools 
 
 <!-- BACK-END LANGUAGES AND TOOLS -->
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
-
+### Back-End
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,docker,django,postman,mysql" />
+  </a>
+</p>
 
 <!-- FRONT-END LANGUAGES AND TOOLS -->
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-
-<!-- GIT -->
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+### Front-End
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
+  </a>
+</p>
 
 <!-- OTHER LANGUAGES AND TOOLS -->
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
-<br><br><br><br>
+### Other languages and tools 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,flask,sqlite,git,github" />
+  </a>
+</p>
+
+<br><br>
 
 #
 
