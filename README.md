@@ -26,7 +26,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <!-- FRONT-END LANGUAGES AND TOOLS -->
 ### Front-End
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.w3schools.com">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
   </a>
 </p>
@@ -34,7 +34,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <!-- OTHER LANGUAGES AND TOOLS -->
 ### Other languages and tools 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.w3schools.com">
     <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,flask,sqlite,git,github" />
   </a>
 </p>
@@ -46,3 +46,4 @@ So I'm still trying to level up as a player :face_in_clouds:.
 ### 	:books: My GitHub Stats
 <img align="left" alt="Java" width="43%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
 <img align="left" alt="Java" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkoninn&layout=compact"/>
+<br>
