@@ -35,7 +35,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 ### Other languages and tools 
 <p align="center">
   <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,flask,sqlite,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,sqlite,git,github" />
   </a>
 </p>
 
