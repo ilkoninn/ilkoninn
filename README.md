@@ -30,13 +30,13 @@ So I'm still trying to level up as a player :face_in_clouds:.
 <br><br>
 
 <h1 align="center">
-  :toolbox: Languages and Tools :toolbox: 
+  :toolbox: Languages, Tools and IDEs :toolbox: 
 </h1>
 <br><br>
 <!-- BACK-END LANGUAGES AND TOOLS -->
 <p align="center">
   <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=py,postgres,docker,azure,django,dotnet,postman,mysql,html,css,js,react,bootstrap,jquery,java,cs,cpp,sqlite,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,docker,azure,django,dotnet,postman,mysql,html,css,js,react,bootstrap,jquery,java,cs,cpp,sqlite,git,github,vscode,visualstudio" />
   </a>
 </p>
 <br>
