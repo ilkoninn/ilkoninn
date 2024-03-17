@@ -15,38 +15,31 @@ below and also the projects I have written about. But I still have little knowle
 and I would like to prepare projects related to these sectors in the future by researching more information. 
 So I'm still trying to level up as a player :face_in_clouds:.
 
----
-## :toolbox: Languages and Tools 
-
-<!-- BACK-END LANGUAGES AND TOOLS -->
-### Back-End
-<p align="center">
-  <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=py,postgres,docker,django,dotnet,postman,mysql" />
-  </a>
-</p>
-
-<!-- FRONT-END LANGUAGES AND TOOLS -->
-### Front-End
-<p align="center">
-  <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery" />
-  </a>
-</p>
-
-<!-- OTHER LANGUAGES AND TOOLS -->
-### Other languages and tools 
-<p align="center">
-  <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,sqlite,git,github" />
-  </a>
-</p>
+<h1 align="center">
+  📑 Github Stats 📑
+</h1>
 
 <br><br>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ilkoninn&theme=dark&card_width=895" alt="GitHub Streak" /></a>
+</div>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkoninn&layout=compact&theme=radical"/>
+</div>
+<br><br>
+
+<h1 align="center">
+  :toolbox: Languages and Tools :toolbox: 
+</h1>
+<br><br>
+<!-- BACK-END LANGUAGES AND TOOLS -->
+<p align="center">
+  <a href="https://www.w3schools.com">
+    <img src="https://skillicons.dev/icons?i=py,postgres,docker,azure,django,dotnet,postman,mysql,html,css,js,react,bootstrap,jquery,java,cs,cpp,sqlite,git,github" />
+  </a>
+</p>
+<br>
 
 #
 
-### 	:books: My GitHub Stats
-<img align="left" alt="Java" width="43%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
-<img align="left" alt="Java" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkoninn&layout=compact"/>
-<br>
