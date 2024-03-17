@@ -21,7 +21,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 
 <br><br>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ilkoninn&theme=dark&card_width=795" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ilkoninn&theme=dark&card_width=745" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ilkoninn&show_icons=true&theme=radical"/>
