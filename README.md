@@ -7,9 +7,12 @@
 
 ### Hi!, I'm Ilkin, but you can call me ilkonin :upside_down_face:
 I'm studying at the Faculty of Computer Science of BSU(Baku State University).
-Also I do Back-End programming with Pyhton-Django. In addition to Back-End programming, I also explore interesting aspects of
-programming, such as Game development, Front-End development, DATA analytics and etc. But I still have little knowledge about 
-these sectors and I would like to prepare projects related to these sectors in the future by researching more information. 
+Also, I am a normal person who tries to learn the computer field and improve myself in this field over time. 
+So far I have been involved in many things, including several fields, such as web development, game development, 
+data analytics, etc., and over time I am trying to become a computer person by exploring other fields. 
+If you want to know what areas I have been involved in until now, you can look at the information I have mentioned 
+below and also the projects I have written about. But I still have little knowledge about these sectors 
+and I would like to prepare projects related to these sectors in the future by researching more information. 
 So I'm still trying to level up as a player :face_in_clouds:.
 
 ---
