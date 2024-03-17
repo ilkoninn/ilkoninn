@@ -22,7 +22,7 @@ So I'm still trying to level up as a player :face_in_clouds:.
 ### Back-End
 <p align="center">
   <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=py,postgres,docker,django,postman,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,docker,django,dotnet,postman,mysql" />
   </a>
 </p>
 
