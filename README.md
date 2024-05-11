@@ -1,7 +1,7 @@
 <p><img align="center" alt="gif" width="1080" src="https://github.com/ilkoninn/ilkoninn/blob/main/Gm7L.gif"/></p>
 
 
-# Recebov Ilkin
+# Rajabov Ilkin
 
 :man_technologist:**`Programmer (Back-End, Front-End, DATA)`**:man_technologist:
 
